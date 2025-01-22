@@ -2,16 +2,26 @@
 
 ### Dashboard Link: https://app.powerbi.com/groups/me/reports/c032bcac-af24-400d-b3ca-c077bdefff84/458902675c67238ad8a4?experience=power-bi
 
-## Problem Statement:
+### Problem Statement:
 This data analysis was done for the company ElectroHub which deals in electronics,footwear,clothing,home appliances,accessories,kitchenware etc.
-They provided me with the store dataset in excel format and wanted me to answer the following questions for them-
-1)Top/Bottom 5 product by Sales/Profit/Quantity Sold.
+They provided me with the store dataset in excel format and wanted me to answer the following questions for them -
+
+
+1.Top/Bottom 5 product by Sales/Profit/Quantity Sold.
+
 2) How do sales trends vary over time (daily, monthly, quarterly, annually) ?
+
 3) Show relationship between sales & profit.
+
+
 4) Compare sales/profit/quantity sold between any two periods selected by the user.
+
 5) Average discount offered in each discount category.
+
 6) Total number of orders.
+
 7) Show Sales/Profit/Discount/Net Sales/All remaining fields for each order that could be filtered using visual filters. (Product/Date/Customer ID/Promotion Categories)
+
 8) Show sales by different cities.
 
 ### Steps followed 
